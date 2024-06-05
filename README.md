@@ -22,3 +22,6 @@ Descrição dos benefícios que nosso trabalho traz para todos.
 
 ### Aplicação no Dia a Dia
 Demonstração de como nossa solução pode ser utilizada no cotidiano das empresas envolvidas na limpeza dos mares.
+
+- [Link repositório](https://github.com/gs-webDev-LCV/gs-webDev.git)
+- [Link GitPages](https://gs-webdev-lcv.github.io/gs-webDev/)
